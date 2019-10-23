@@ -2,7 +2,7 @@
 Event recommendation and ticket purchase
 
 Interactive Web Page <br />
-Front-end: Js, CSS, HTML <br />
+Front-end: Js, CSS, HTML, AJAX <br />
 Back-end: TomCat, Java servlet, AWS <br />
 Database, RSDB: MySQL(developed), NoSQL: MangoDB(developed) <br />
 Service: AWS EC2 <br />
